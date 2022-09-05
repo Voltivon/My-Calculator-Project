@@ -1,3 +1,5 @@
 # My-Calculator-Project
 
-This project was for practice, and i copied a tutorial from youtube to do most of the work, i was unable to figure this one out so ill try again soon. 
+This is my Calculator-Project that i built while getting help from a tutorial 
+
+Check it out here --------> https://voltivon.github.io/My-Calculator-Project/

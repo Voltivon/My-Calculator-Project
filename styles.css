@@ -57,3 +57,10 @@ body {
 .current-operand {
   font-size: 3rem;
 }
+
+h1 {
+  font-size: 3rem;
+  text-align: center;
+  font-family: monospace;
+  font-weight: bold;
+}
